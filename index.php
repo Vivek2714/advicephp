@@ -1,5 +1,5 @@
 <?php 
 
-echo "Here is my first build 123";
+echo "Here is my first build ";
 
 ?>
